@@ -61,10 +61,12 @@ cd backend
 npm install
 ```
 ### 4. Configure Environment Variables
-Create a .env file in the backend directory to store your environment variables. Ensure to add the following:
+Create a .env file in the backend directory to store your environment variables. 
+Ensure to add the following:
 `MONGO_URI=<your_mongo_connection_string>
 JWT_SECRET=<your_jwt_secret>
 PORT=5000`
+
 Replace <your_mongo_connection_string> and <your_jwt_secret> with your actual MongoDB connection string and a secure secret for JWT authentication.
 
 ### 5. Start the Backend Server
@@ -75,7 +77,7 @@ npm start
 ```
 This will start the server on the specified port (default is 5000).
 
-6. Install Frontend Dependencies
+### 6. Install Frontend Dependencies
 Now, navigate to the frontend directory and install the necessary dependencies:
 
 ```bash
@@ -83,7 +85,7 @@ cd ../frontend
 npm install
 ```
 
-7. Start the Frontend Application
+### 7. Start the Frontend Application
 To run the React application, use:
 
 ```bash
@@ -91,5 +93,5 @@ npm start
 ```
 This will launch the application in your default web browser at http://localhost:3000.
 
-8. Test the Application
+### 8. Test the Application
 Once both the backend and frontend servers are running, you can start using the QuickChat Messaging App. You can create an account, log in, and start chatting in real-time!
