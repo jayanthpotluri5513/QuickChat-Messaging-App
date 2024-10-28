@@ -1,4 +1,4 @@
-# QuickChat Messaging App
+# QuickChat Messaging App 📱
 
 QuickChat is a real-time messaging application built with ReactJS, MongoDB, ExpressJS, and Socket.IO. It offers an intuitive user interface that supports concurrent chatting for over 1000 users simultaneously.
 
@@ -126,7 +126,7 @@ npm start
 3. Access the Application
    through web browser and go to http://localhost:3000 to use the QuickChat Messaging App.
 
-## 🔍 Step-by-Step Process
+##  📚 Step-by-Step Process
 
 
 ### 1. Architecture
@@ -219,4 +219,13 @@ The architecture of the application is structured as follows:
 
 4. **User Profiles**:
    - Implement user profiles where users can update their information and profile pictures.
+
+## 📜 License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## 🤖 About Me
+I'm Srijayanth Potluri, an aspiring software developer and data analyst with a strong interest in full stack development, machine learning, deep learning, and NLP technologies. I am dedicated to leveraging advanced algorithms to drive insights and foster meaningful interactions across digital platforms.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijayanth-potluri-437519259/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SrijayanthP)
 
