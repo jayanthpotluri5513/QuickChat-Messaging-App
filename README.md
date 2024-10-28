@@ -97,3 +97,31 @@ This will launch the application in your default web browser at http://localhost
 
 ### 8. Test the Application
 Once both the backend and frontend servers are running, you can start using the QuickChat Messaging App. You can create an account, log in, and start chatting in real-time!
+
+
+## 🏃 Instructions to Run
+
+### Backend
+1. Open your terminal and navigate to the backend directory:
+
+   ```bash
+   cd ~/Desktop/QuickChat-Messaging-App/backend
+   ```
+2. Start the backend server:
+
+```bash
+npm start
+```
+### Frontend
+1. Open another terminal and navigate to the frontend directory:
+
+  ```bash
+  cd ~/Desktop/QuickChat-Messaging-App/frontend
+  ```
+2. Start the frontend server:
+
+  ```bash
+    npm start
+  ```
+3. Access the Application
+   Open your web browser and go to http://localhost:3000 to use the QuickChat Messaging App.
