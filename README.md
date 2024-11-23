@@ -220,10 +220,6 @@ The architecture of the application is structured as follows:
 4. **User Profiles**:
    - Implement user profiles where users can update their information and profile pictures.
 
-
-## Deployed Link
-
-(https://planit-11ea5.firebaseapp.com/)
 ## 📜 License
 [MIT](https://choosealicense.com/licenses/mit/)
 
